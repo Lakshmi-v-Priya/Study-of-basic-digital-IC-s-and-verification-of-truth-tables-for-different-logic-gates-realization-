@@ -57,16 +57,21 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
-/*
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+Program: Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+Developed by: LAKSHMI PRIYA V
+RegisterNumber:  212223220049 
+
+CODE: 
+![Exp1 code](https://github.com/Lakshmi-v-Priya/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151720706/7c7ef825-5baf-46a2-8d4f-2853e09192a8)
+
+Truthtable:![Exp1 truthtable](https://github.com/Lakshmi-v-Priya/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151720706/2336b095-3690-4017-a55f-8caf7ba334b0)
+
+RTL DIAGRAM:
+![Exp1 RTL diagram](https://github.com/Lakshmi-v-Priya/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151720706/e5782191-cd5c-4319-a309-57cc475a963a)
+ OUTPUT:
+ ![Exp1 wave](https://github.com/Lakshmi-v-Priya/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151720706/eaf943f9-bec4-4cf2-ab93-3ad5b46640f0)
+
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
